@@ -1,3 +1,6 @@
+[![crates.io](https://img.shields.io/crates/v/typeless?style=flat-square)](https://crates.io/crates/typeless)
+[![build status](https://img.shields.io/github/workflow/status/Cyborus04/typeless/Rust?style=flat-square)](https://github.com/Cyborus04/typeless/actions)
+
 # typeless
 
 `unsafe` API for type erasure on the stack
