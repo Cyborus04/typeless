@@ -1,0 +1,18 @@
+[package]
+description = "`unsafe` inline type erasure"
+documentation = "https://docs.rs/typeless"
+edition = "2018"
+homepage = "https://www.crates.io/crates/typeless"
+license = "MIT OR Apache-2.0"
+name = "typeless"
+readme = "README.md"
+repository = "https://github.com/Cyborus04/typeless/"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[features]
+default = ["std"]
+std = []
