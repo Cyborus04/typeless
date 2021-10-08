@@ -17,6 +17,8 @@ typeless = "0.1"
 Storing any value `x` of type `T` in `TypeErased` completely destroys all type data associated
 with it.
 
+For a safer variant, check out [`inline_any`](https://crates.io/crates/inline_any)
+
 ## Restrictions
 
 While this erases all type data, leaving only the pure bytes, the compiler still requires 2
